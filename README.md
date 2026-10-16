@@ -1,8 +1,8 @@
-Pertemuan 07 - Fungsi Python
+**Pertemuan 07 - Fungsi Python
 
 Nama: Jihan Fithriyyah
 NIM: 2225250155
-Kelas: 3A
+Kelas: 3A**
 
 ## Tujuan
 Menggunakan fungsi, parameter, return value, dan scope untuk membuat program modular, rapi, dan mudah diuji pada bahasa pemrograman Python.
